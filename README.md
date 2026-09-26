@@ -14,9 +14,3 @@ Hey, I'm Kenneth 👋<br><br>💻 CS student | Developer | Photographer | Profes
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KENnotcode&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KENnotcode&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=KENnotcode&icon=3&color=4)](https://visitcount.itsvg.in)
