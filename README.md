@@ -1,4 +1,4 @@
-# 💫 About Me:Hi
+# 💫 About Me:
 Hey, I'm Kenneth ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br><br>💻 CS student | Developer | Photographer | Professional bug creator<br><br>I write code, break code, Google why it broke, then somehow fix it.<br>Currently jumping between Typescript, PHP, Laravel, Python, AI, and whatever my next project decides to need.<br><br>📸 When I'm not coding, I'm probably taking photos, editing, or pretending I know what I'm doing in Photoshop. <br><br>while(alive) { code(); learn(); repeat(); }
 
 
