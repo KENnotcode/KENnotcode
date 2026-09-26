@@ -2,8 +2,8 @@
 Hey, I'm Kenneth 👋<br><br>💻 CS student | Developer | Photographer | Professional bug creator<br><br>I write code, break code, Google why it broke, then somehow fix it.<br>Currently jumping between Typescript, PHP, Laravel, Python, AI, and whatever my next project decides to need.<br><br>📸 When I'm not coding, I'm probably taking photos, editing, or pretending I know what I'm doing in Photoshop. <br><br>while(alive) { code(); learn(); repeat(); }
 
 
-## 🌐 Socials:
-<a href="https://facebook.com/Kencantcode" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
+## 🌐 Socials# 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kencantcode)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kenphotographs_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kennethcubilo@gmail.com) 
 
 # 💻 Tech Stack:
