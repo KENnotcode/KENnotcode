@@ -33,7 +33,7 @@ Hey, I'm Kenneth ![](https://user-images.githubusercontent.com/18350557/17630978
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
 
 ### **Automation**
-[![n8n](https://img.shields.io/badge/n8n-%23FF6584?style=plastic&logoColor=white)](https://n8n.io/)
+[![n8n]
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
 ### **Web Scraping**
