@@ -26,7 +26,6 @@ Hey, I'm Kenneth ![](https://user-images.githubusercontent.com/18350557/17630978
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
-[![Ultralytics](https://img.shields.io/badge/YOLOv8-%2300FFFF.svg?style=plastic&logo=ultralytics&logoColor=black)](https://ultralytics.com/)
 
 ### **Design**
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
